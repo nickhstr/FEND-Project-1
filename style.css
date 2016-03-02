@@ -1,0 +1,52 @@
+body, div {
+  font-family: 'Roboto';
+  color: #999;
+}
+
+h3 {
+  font-size: 3em;
+}
+
+.title-img {
+  height: 130px;
+  border-radius: 100%;
+  margin: 20px 0 0 0;
+}
+
+.title-super {
+  font-size: 5em;
+}
+
+.title-thin {
+  font-weight: 100;
+}
+
+.text-muted {
+  color: #bbb;
+}
+
+.hero {
+  margin: auto auto 50px;
+}
+
+.app {
+  margin: auto auto 60px;
+}
+
+a {
+  color: #999;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #000;
+}
+
+
+@media screen and (max-width: 767px) {
+	.centered {
+		text-align: center;
+	}
+
+
+}
